@@ -23,8 +23,9 @@ const int gassensor= 36;
 const int onswitch = 5;
 const int offswitch = 23;
 
-const char* ssid = "MadhuSudhu";
-const char* password = "Dublin_Sudhu@2020";
+// enter your WiFi usernamne and password
+const char* ssid = "**********";
+const char* password = "**********";
 String var1="0",var2="Limerick",var3="0",var4="0",var5="0";
 String recvalue;
 int str_count;
