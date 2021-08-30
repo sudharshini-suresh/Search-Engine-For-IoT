@@ -1,4 +1,4 @@
-# [Seacrh engine for IoT]
+# Seacrh engine for IoT
 ## This project aims at designing and building a search engine that is dedicated to IoT devices. 
 ### Quick Start
 To begin with this project, following requirements must be available in order to set-up the IoT device .
@@ -18,7 +18,7 @@ The deatils to connect the sensors to ESP32 can be found in [Circuit Connection]
 
 ### Implementation
 Once the connections are made and arduino IDE is set-up
-node1tempiot.ino is executed from the following folders and executed on the Arduino IDE.
+node1tempiot.ino is executed from the following folders on the Arduino IDE.
 ##### _Note: the ssid and password is based on the local WiFi username and password_
 * [Device 1](https://github.com/sudharshini-suresh/Search-Engine-For-IoT/blob/44120c0a770143a58faeb597308112301018c1ca/nodes/device1/node1tempiot/node1tempiot.ino)
 * [Device 2](https://github.com/sudharshini-suresh/Search-Engine-For-IoT/blob/44120c0a770143a58faeb597308112301018c1ca/nodes/device2/node1tempiot/node1tempiot.ino)
